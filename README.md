@@ -1,3 +1,3 @@
 # Brief
-# # Simple landing page
+# Simple landing page
 # Used technologies: HTML, SCSS, Bootstrap, jQuery, JS
